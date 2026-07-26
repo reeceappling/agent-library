@@ -1,3 +1,8 @@
+/*
+See this for more thorough info:
+https://code.claude.com/docs/en/settings
+https://gist.github.com/mculp/c082bd1e5a439410158974de90c89db7
+*/
 {
   "hooks": {
     "PreToolUse": [

@@ -1,7 +1,8 @@
 # agent-library
 My personal library of things related to AI Agents. Tools, Skills, MCP, etc
 # Directories
-- agentFiles - Things that agents can use
+- llms - Custom llm wrappers, such as the poolside wrapper to interact with poolside via the api.
+- agentFiles - Things that agents can use 
   - agents - Agents and subAgents. Agents are _______. Subagents are ______
     - TODO: FIXME!
   -  commands - Self-contained commands that can be used by agents. Commands are _______
